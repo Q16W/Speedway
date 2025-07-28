@@ -1,7 +1,8 @@
-## [GAME DOWNLOAD](https://drive.google.com/file/d/1X4GyNUDzcTM7Mv8gm9kK97855Q4mmN-b/view?usp=sharing)
+### [GAME DOWNLOAD](https://drive.google.com/file/d/1X4GyNUDzcTM7Mv8gm9kK97855Q4mmN-b/view?usp=sharing)
 
-PS4 Remote And Keyboard Tested
-
+### Controls
+PS4 Remote And Keyboard Tested <br>
+<br>
 W, Mouse 1 or R2 = Move Foward <br>
 S, Mouse 2 or L2 = Move Backwards & Handbreak Off <br>
 Spacebar or Square = Handbreak <br>
